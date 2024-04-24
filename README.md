@@ -1,8 +1,6 @@
 # Github Pages Demo
 
-This is a quick introduction to creating GitHub Pages, which we'll use for submitting interactive assignments moving forward. 
-
-GitHub Pages is a feature of github that allows you to create a website from your repo.  
+[GitHub Pages](https://pages.github.com/) is a feature of github that allows you to create a website from your repo.  Moving forward, this is how we'll be submitting interactive assignments, so here's a quick how-to.
 
 ---
 
@@ -16,7 +14,7 @@ GitHub Pages is a feature of github that allows you to create a website from you
 
 ---
 
-3. Select the branch you would like to expose as a website. (Make sure you save!)
+3. Select the branch you would like to expose as a website. (It'll probably be main. Make sure you save!)
 ![Select the main branch.](/step_images/step-3.png)
 
 ---
@@ -28,7 +26,7 @@ GitHub Pages is a feature of github that allows you to create a website from you
 
 ## Gotchas
 
-1. Make sure your repo is public! If it is a private repo the pages link will break.
+1. **Make sure your repo is public.** If it is a private repo the pages link will break.
 ![Select the main branch.](/step_images/public.png)
 
 
