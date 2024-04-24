@@ -30,5 +30,6 @@
 ![Select the main branch.](/step_images/public.png)
 
 
+2. **Make your root folder has an index.html.** This is the first page that will load and should container your phaser game..
+![Select the main branch.](/step_images/check_index.png)
 
-Finally, make sure your branch is set to public : 
